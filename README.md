@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @zsystm
-- 👀 I’m interested in cosmos and evm based chains.
+# 👋 Hi, I'm @zsystm
 
-<!---
-zsystm/zsystm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a core blockchain developer working on Cosmos SDK and EVM-based chains.
+
+## 📊 GitHub Stats
+
+![zsystm's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsystm&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsystm&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zsystm&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
