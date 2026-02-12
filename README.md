@@ -9,7 +9,7 @@ Specialized in **EVM compatibility, performance engineering, and execution optim
 ---
 
 ## 🔹 Highlights
-- Core contributions to **CosmosEVM**, **Canto (Ethermint)**, **Injective**, **Story**, **Babylon**, and **Klaytn**.  
+- Core contributions to **CosmosEVM**, **Stable**, **Canto (Ethermint)**, **Injective**, **Story**, **Babylon**, and **Klaytn**.  
 - Performance research on L1 scalability (OPE + MemIAVL) targeting **10k TPS under 1s block times**.  
 - Experience building and maintaining **Klaytn SDKs** and integrating **Rosetta API** (Coinbase standard).  
 - Background in **backend engineering** (APIs, dashboards, data pipelines) and threat intelligence systems.  
